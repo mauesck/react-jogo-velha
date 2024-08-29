@@ -1,0 +1,3 @@
+* No caminho /jogo-da-velha> use o comando ( npm install )
+* Após o fim da instalação das dependências no mesmo caminho use o comando ( npm start )
+* Abrirá em http://localhost:3000
